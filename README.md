@@ -1,3 +1,3 @@
 # TinDog Project
 
-une page d'accueil pour une application de recontre utilisant bootstrapp
+une page d'accueil responsive pour une application de recontre utilisant bootstrapp
